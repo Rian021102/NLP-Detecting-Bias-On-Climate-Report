@@ -1,4 +1,4 @@
-# NLP-Detecting-Bias-On-Climate-Report
+# NLP-Detecting-Bias-On-Climate-Report Phase 1: Data Cleaning and EDA
 ## Project Description
 NLP technique in detecting bias on climate report. The first phase of this project is data cleaning in NLP such as handling stopwords, removing https, html,
 unwanted characters, removing white spaces, split concantenated words and lemmatization. The first phase also includes EDA such as data distribution of 
